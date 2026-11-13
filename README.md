@@ -34,9 +34,9 @@ An online store collects order data, but the raw file has quality problems (miss
 | Item | Detail |
 |---|---|
 | Source | Synthetic data created with Python for practice (names, emails and phone numbers are fake) |
-| Raw file | `data/ecommerce_orders_messy.csv`: 281 rows, 19 columns |
-| Cleaned file | `data/ecommerce_orders_cleaned.csv`: 252 rows, 19 columns |
-| Power BI file | `data/ecommerce_orders_powerbi_ready.csv`: 252 rows, 18 columns (no rating column; blank cells instead of `Unknown` in the date columns) |
+| Raw file | `data/ecommerce_orders_messy.csv`: 281 rows, 18 columns |
+| Cleaned file | `data/ecommerce_orders_cleaned.csv`: 252 rows, 18 columns |
+| Power BI file | `data/ecommerce_orders_powerbi_ready.csv`: 252 rows, 18 columns (blank cells instead of `Unknown` in the date columns) |
 | Period | January 2025 to August 2026 |
 | Coverage | 15 customers, 15 products in 6 categories, 8 cities in 7 states (India), 5 payment methods |
 
@@ -56,26 +56,25 @@ An online store collects order data, but the raw file has quality problems (miss
 | `order_status` | Delivered, Shipped, Pending, Cancelled, Returned |
 | `city`, `state`, `country` | Delivery location |
 | `delivery_date` | Date the order was delivered (empty if never delivered) |
-| `rating` | Customer rating from 1 to 5 (delivered orders only) |
 
 ## 3. Cleaning process
 
-Code: [`notebooks/01_data_cleaning.ipynb`](notebooks/01_data_cleaning.ipynb) (pandas only, every line commented).
+Code: [`swynex.ipynb`](swynex.ipynb) (pandas only, every line commented).
 
 | Problem type | Examples found | How it was handled |
 |---|---|---|
 | **Missing values** | Blank cells, `NULL`, `N/A`, `nan` | Placeholders turned into real missing values; category and price filled from the same product, name and email filled from the same customer; labelled `Unknown` where nothing can be guessed (payment, city, phone) |
 | **Duplicate records** | Exact copies and repeated `order_id` | `drop_duplicates()`, keeping the first row (21 rows removed) |
-| **Incorrect values** | Negative or huge quantities and prices, ratings outside 1 to 5, discounts of 100% or more, future dates, delivery before order, invalid emails and phones, wrong totals | Out-of-range values set to missing, then filled by rule; totals recalculated from quantity, price and discount |
+| **Incorrect values** | Negative or huge quantities and prices, discounts of 100% or more, future dates, delivery before order, invalid emails and phones, wrong totals | Out-of-range values set to missing, then filled by rule; totals recalculated from quantity, price and discount |
 | **Inconsistent values** | `Deliverd` / `Delivered`, `Bangalore` / `Banglore` / `Bengaluru`, `UPI` / `upi`, mixed date formats, `C1006X` customer IDs | Standardised with `.str` methods and `.replace()` dictionaries |
 
 **Steps:** inspect → remove extra spaces → standardise text → fix data types and dates → fix incorrect values → remove duplicates → fill missing values → set final types and save.
 
-**Result:** 281 raw rows became 252 clean rows. The only blanks left are by design: no delivery date for cancelled or pending orders, and no rating for orders that were not delivered or not rated.
+**Result:** 281 raw rows became 252 clean rows. The only blanks left are by design: cancelled and pending orders have no delivery date because they were never delivered.
 
 ## 4. Analysis (EDA)
 
-Code and charts: [`notebooks/02_eda.ipynb`](notebooks/02_eda.ipynb), PNG copies in [`charts/`](charts/).
+Code and charts: [`EDA.ipynb`](EDA.ipynb), PNG copies in [`charts/`](charts/).
 
 **Key statistics (252 orders)**
 
@@ -86,7 +85,6 @@ Code and charts: [`notebooks/02_eda.ipynb`](notebooks/02_eda.ipynb), PNG copies 
 | Average order value | ₹12,768 |
 | Median order value | about ₹3,000 |
 | Orders cancelled / returned / delivered | 23.0% / 18.7% / 21.0% |
-| Average rating | 3.07 (from 45 ratings) |
 | Average delivery time | 5.4 days |
 
 **Methods:** summary statistics, monthly trend, weekday pattern, revenue by category, product, city and payment method, correlation table, and outlier detection with the IQR rule (an order is an outlier if it is above Q3 + 1.5 × IQR, which is ₹22,967 here).
@@ -142,7 +140,6 @@ Files in [`dashboard/`](dashboard/):
 4. **Revenue is lumpy and has anomalies.** The average order is ₹12,768 but the median is only about ₹3,000. 35 outlier orders (13.9% of orders) make up 72.5% of order value. July 2026 revenue was about 3.3 times a normal month, and more than half of it came from one iPhone order of ₹1,64,997.
 5. **Two cities generate half of the revenue.** Hyderabad (25.3%) and Bengaluru (23.6%) together make 48.9%; Chennai is lowest at 1.9%.
 6. **Order value is driven by price, not by quantity or discounts.** Order amount follows unit price closely (correlation 0.90). Discounts of 0 to 20% show almost no link to quantity (-0.05).
-7. **Customers who rate are split.** 37.8% of ratings are 1 or 2 stars and 40.0% are 4 or 5, so few customers are in the middle.
 
 ## 7. Recommendations
 
@@ -163,9 +160,8 @@ These are ideas that follow from the data and should be tested before acting on 
 │   ├── ecommerce_orders_messy.csv           # raw data with quality problems
 │   ├── ecommerce_orders_cleaned.csv         # output of the cleaning notebook
 │   └── ecommerce_orders_powerbi_ready.csv   # cleaned data prepared for Power BI
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb               # cleaning (pandas)
-│   └── 02_eda.ipynb                         # analysis, charts and insights
+├── swynex.ipynb                             # cleaning (pandas)
+├── EDA.ipynb                                # analysis, charts and insights
 ├── charts/                                  # PNG copies of the EDA charts
 └── dashboard/
     ├── SWYNEX_Dashboard_v2.pbix             # Power BI dashboard
@@ -181,13 +177,13 @@ pip install pandas matplotlib jupyter
 jupyter notebook
 ```
 
-1. Open `notebooks/01_data_cleaning.ipynb` and use **Run All**. It reads the raw file from `data/` and writes the cleaned file.
-2. Open `notebooks/02_eda.ipynb` and use **Run All**.
+1. Open `swynex.ipynb` and use **Run All**. It reads the raw file from `data/` and writes the cleaned file.
+2. Open `EDA.ipynb` and use **Run All**.
 3. For the dashboard, follow section 5.
 
 ## 10. Limitations
 
-- Only 252 orders, 15 customers and 45 ratings, so small differences (payment method, weekday, rating by category) can be chance.
+- Only 252 orders and 15 customers, so small differences (payment method, weekday) can be chance.
 - Revenue excludes cancelled and returned orders and counts pending orders as expected sales.
 - A few missing dates were estimated from the median delivery time during cleaning.
 - The data is synthetic, so the results show the method and not real business performance.
