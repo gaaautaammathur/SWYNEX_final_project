@@ -1,0 +1,282 @@
+order_id,customer_id,customer_name,email,phone,order_date,product_name,category,quantity,unit_price,discount_pct,total_amount,payment_method,order_status,city,state,country,delivery_date,rating
+ORD5010,C1004,NULL,sneha.iyer@gmail.com,9278248963,2025-03-29,Lakme Face Wash,Beauty,1,249,20,199.2,Net Banking,Shipped,Pune,Maharashtra,India,2025-04-07,
+ORD5219,C1013,Siddharth Rao,siddharth.rao@gmail.com,9574374896,2025-09-16,iPhone 13,Electronics,3,54999,15,140247.45,Net Banking,Returned,Bengaluru,Karnataka,India,2025-09-22,
+ORD5078,C1003,Rohan Mehta,rohan.mehta@gmail.com,9525459910,2025-04-04,Wings of Fire,Books,4,299,15,1016.6,Debit Card,Returned,Mumbai,Maharashtra,India,2025-04-09,
+ORD5091,C1014,kavya pillai,kavya.pillai@gmail.com,12345,2026-06-04,Yonex Badminton Racket,Sports,3,1899,20,4557.6,Cash on Delivery,Shipped,Pune,Maharashtra,India,2026-06-06,
+ORD5034,C1001,Aarav Sharma,aarav.sharma@gmail.com,9467065627,2026-02-04,Allen Solly Shirt,Clothing,2,1799,15,3058.3,Debit Card,Shipped,Chennai,Tamil Nadu,India,2026-02-12,
+ORD5178,C1010,Pooja Joshi,pooja.joshi@gmail.com,9836403761,2025-01-28,Atomic Habits,Books,2,499,20,798.4,Debit Card,Pending,Chennai,Tamil Nadu,India,,
+ORD5047,C1013,SIDDHARTH RAO,siddharth.rao@gmail.com,9499091334,2026-04-07,Philips Air Fryer,home & kitchen,3,7499,20,17997.6,Credit Card,Returned,Kolkata,West Bengal,India,2026-04-16,
+ORD5210,C1014,Kavya Pillai,kavya.pillai@gmail.com,9160898992,2026-07-03,Philips Air Fryer,Home & Kitchen,2,7499,15,12748.3,Credit Card,Cancelled,Kolkata,West Bengal,India,,
+ORD5214,C1010,Pooja Joshi,pooja.joshi@gmail.com,9745054447,02-09-2025,Python Crash Course,Books,3,699,5,1992.15,Debit Card,Delivered,Kolkata,West Bengal,India,2025-02-17,1
+ORD5108,C1011,Amit Desai,amit.desai@gmail.com,901-824-2253,2025-05-12,Philips Air Fryer,HOME & KITCHEN,2,7499,15,12748.3,UPI,Pending,Hyderabad,Telangana,India,,
+ORD5255,C1013,Siddharth Rao,siddharth.rao@gmail.com,9766506180,12-Aug-2026,Nike T-Shirt,Clothing,3,1299,15,3312.45,Net Banking,Returned,Pune,Maharashtra,India,2026-08-17,
+ORD5212,C1009,Rahul Nair,rahul.nair@gmail.com,9861622999,2025-02-30,Prestige Mixer Grinder,Home & Kitchen,1,3299,20,25815.73,Credit card,Pending,Hyderabad,Telangana,Bharat,,
+ORD5225,C1003,Rohan Mehta,rohan.mehta@gmail.com,9007432927,2025-03-24,Allen Solly Shirt,Clothing,3,1799,5,5127.15,Credit Card,Cancelled,Delhi,Delhi,India,,
+ORD5234,C1006X,Ananya Reddy,ananya.reddy@gmail.com,99999999999999,2025-10-02,Lakme Face Wash,Beauty,3,249,10,672.3,Credit Card,Shipped,Ahmedabad,Gujarat,India,2025-10-05,
+ORD5038,C1002,Priya Patel,priya.patel@gmail.com,9931491905,2025-11-16,Atomic Habits,books,4,499,5,1896.2,Cash on Delivery,Delivered,Mumbai,DL,India,2025-11-24,5
+ORD5055,C1002,Priya Patel,priya.patel@gmail.com,9737826398,2026-05-26,Python Crash Course,Books,3,699,15,1782.45,Debit Card,Returned,Delhi,TS,India,2026-06-01,
+ORD5155,C1010,Pooja Joshi,pooja.joshi@gmail.com,9659657569,2026-04-14,Atomic Habits,Books,2,499,10,898.2,UPI,Delivered,Bengaluru,Karnataka,India,2026-04-17,2
+ORD5069,C1011,AMIT DESAI,,9713900532,2025-03-04,Allen Solly Shirt,Clothing,3,1799,5,5127.15,Debit Card,Canceled,Hyderabad,Telangana,India,2025-03-12,5
+ORD5132,C1008,Neha Gupta,neha.gupta@gmail.com,9403910651,2026-07-27,atomic habits,BOOKS,3,499,0,1497.0,Net Banking,Returned,Mumbai,maharashtra,India,2026-08-05,
+ORD5151,C1006,Ananya Reddy,ananya.reddy@gmail.com,9431142626,2026-03-19,Philips Air Fryer,Home & Kitchen,4,7499,0,29996.0,UPI,Pending,Kolkata,TN,India,,
+ORD5019,C1002,NULL,priya.patel@gmail.com,9354278498,2026-06-03,Samsung Galaxy M34,Electronics,2,16999,10,30598.2,Net Banking,Delivered,MUMBAI,Karnataka,India,2026-06-09,1
+ORD5079,C1003,Rohan Mehta,rohan.mehta@gmail.com,9976438156,2025-03-25,Yonex Badminton Racket,Sports,4,1899,15,6456.6,Credit Card,Returned,Mumbai,Maharashtra,India,2025-03-31,
+ORD5020,C1005,Vikram Singh,vikram.singh@gmail.com,9244935348,2025-05-18,Lakme Face Wash,Beauty,1,249,0,249.0,Cash on Delivery,Pending,Pune,Maharashtra,India,,
+ORD5231,C1012,Divya Menon,divya.menon@gmail.com,9934835642,2025-10-17,Atomic Habits,Books,1,499,15,424.15,Credit Card,Shipped,Pune,Maharashtra,India,2025-10-20,
+ORD5195,C1006,Ananya Reddy,ananya.reddy@gmail.com,09999347687,2025-10-09,Levi's Jeans,Clothing,4,2499,5,9496.2,Credit Card,Delivered,Delhi,Delhi,India,2025-10-15,1
+ORD5052,C1006,Ananya Reddy,ananya.reddy@gmail.com,968-071-5451,06-14-2025,Allen Solly Shirt,Clothing,4,1799,15,6116.6,COD,Cancelled,Pune,Maharashtra,India,,
+ORD5200,C1004,Sneha Iyer,@gmail.com,9292185156,12-15-2025,Yonex Badminton Racket,Sports,3,1899,0,5697.0,upi,Delivered,Delhi,Delhi,India,2025-12-19,5
+ORD5169,C1008,Neha Gupta,neha.gupta@gmail.com,9292330958,2025-08-31,Cosco Football,Sports,3,799,20,1917.6,UPI,Returned,Pune,Maharashtra,India,2025-09-05,
+ORD5115,C1012,Divya Menon,divya.menon@gmail.com,9835841687,2026-01-10,Allen Solly Shirt,Clothing,4,1799,0,7196.0,Net Banking,Pending,,West Bengal,India,,
+ORD5167,C1008,Neha Gupta,neha.gupta@gmail.com,09438427978,2026-08-02,boAt Rockerz 450,Electronics,2,Rs. 1499,10,2698.2,Credit Card,Delivered,Pune,Maharashtra,India,2026-08-04,5
+ORD5106,C1005,Vikram Singh,vikram.singh@gmail.com,9132370589,2025-06-11,Lakme Face Wash,Beauty,,249,20,597.6,UPI,Shipped,Chennai,Tamil Nadu,India,2025-06-15,
+ORD5118,C1009,Rahul Nair,priya.patel@gmail,9516940974,,Cosco Football,Sports,4,799,0,3196.0,upi,canceled,Ahmedabad,Gujarat,India ,,
+ORD5021,C1015,Vikram Singh,vikram.singh@gmail.com,9524278680,05-Apr-2025,Lakme Face Wash,Beauty,3,,0,747.0,Credit Card,Delivered,Mumbai,Maharashtra,India,2025-04-13,1
+ORD5259,C1011,Amit Desai,amit.desai@gmail.com,9413975523,2026-07-17,Yonex Badminton Racket,Sports,1,1899,10,1709.1,UPI,Delivered,Mumbai,Maharashtra,India,2026-07-26,1
+ORD5095,C1004,Sneha Iyer,sneha.iyer@gmail.com,9472779010,2025-04-12,iPhone 13,Electronics,2,54999,5,104498.1,Debit Card,Delivered,Hyderabad,Telangana,India,2025-04-19,7
+ORD5145,C1010,Pooja Joshi,pooja.joshi@gmail.com,9600848408,2026-05-15,Python Crash Course,Books,1,699,20,559.2,Cash on Delivery,Pending,Ahmedabad,Gujarat,India,,
+ORD5046,C1007,Karan Verma,karan.verma@gmail.com,9413186999,2026-08-14,Milton Water Bottle,Home & Kitchen,2,599,5,1138.1,Debit Card,Pending,Pune,Maharashtra,India,,
+ORD5022,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9262045053,2026-07-13,Wings of Fire,Books,,299,20,717.6,Debit Card,Pending,Delhi,Delhi,India,,
+ORD5158,C1012,Divya Menon,divya.menon@gmail.com,9886805891,17-Mar-2025,Prestige Mixer Grinder,Home & Kitchen,4,3299,20,10556.8,COD,Returned,Kolkata,West Bengal,India,2025-03-26,
+ORD5217,C1009,Rahul Nair,rahul.nair@gmail.com,9727985524,2031-05-14,Prestige Mixer Grinder,Home & Kitchen,3,3299,15,8412.45,Credit Card,Pending,Pune,Maharashtra,India,,
+ORD5057,C1009X,Rahul Nair,rahul.nair@gmail.com,9636057662,2026-04-12,Yonex Badminton Racket,Sports,2,1899,5,3608.1,Cash on Delivery,Pending,Kolkata,West Bengal,India,,
+ORD5086,C1005,Vikram Singh,vikram.singh@gmail.com,9199867980,2025-02-08,Milton Water Bottle,Home & Kitchen,0,599,10,1617.3,Net Banking,Delivered,Ahmedabad,Gujarat,India,2025-02-10,0
+ORD5192,C1003,Rohan Mehta,rohan.mehta@gmail.com,9206788317,2025-12-31,Samsung Galaxy M34,Electronics,1,16999,10,15299.1,Credit Card,Cancelled,Bengaluru,Karnataka,India,2025-12-24,
+ORD5081,C1002,Priya Patel,priya.patel@gmail.com,9388516060,2026-03-17,iPhone 13,Electronics,2,54999,15,93498.3,Cash on Delivery,Pending,Banglore,Gujarat,India,,
+ORD5104,C1013,Siddharth Rao,siddharth.rao@gmail.com,9310278681,2026-06-27,Samsung Galaxy M34,electronics,4,16999,10,61196.4,UPI,Cancelled,New Delhi,Delhi,India,,
+ORD5218,C1005,Vikram Singh,vikram.singh@gmail.com,9346800722,2025-02-20,iPhone 13,Electronics,2,54999,5,104498.1,Net Banking,Deliverd,Kolkata,West Bengal,India,2025-02-24,
+ORD5045,C1009,Rahul Nair,rahul.nair@gmail.com,9777520471,2026-05-18,Nike T-Shirt,Clothing,1,1299,20,1039.2,Credit Card,Cancelled,Banglore,Delhi,India,,
+ORD5232,C1009,Rahul Nair,rahul.nair@gmail.com,9119721811,2026-05-08,Milton Water Bottle,Home & Kitchen,2,599,0,1198.0,Debit Card,Delivered,Bengaluru,Karnataka,India,2026-05-15,3
+ORD5044,C1004,Sneha Iyer,sneha.iyer@gmail.com,9352408240,2025-10-11,Wings of Fire,Books,1,299,5,284.05,Credit Card,Cancelled,Ahmedabad,Gujarat,India,,
+ORD5148,C1011,Amit Desai,amit.desai@gmail.com,9974014890,2026-08-03,Yonex Badminton Racket,Sports,1,1899,5,1804.05,Debit Card,Shipped,Hyderabad,Telangana,India,2026-08-06,
+ORD5088,C1003,Rohan Mehta,rohan.mehta@gmail.com,9051518644,2025-10-17,Allen Solly Shirt,Clothing,4,1799,10,6476.4,Net Banking,Pending,Hyderabad,Telangana,India,,
+ORD5215,C1003,Rohan Mehta,rohan.mehta@gmail.com,9373678508,25-Nov-2025,Nike T-Shirt,Clothing,4,1299,20,4156.8,Credit Card,Delivered,Ahmedabad,Gujarat,India,2025-12-01,2
+ORD5154,C1003,rohan mehta,rohan.mehta@gmail.com,9646471543,2025-10-02,Nike T-Shirt,Clothing,2,1299,0,2598.0,Cash on Delivery,Shipped,Chennai,Tamil Nadu,India,2025-10-11,
+ORD5172,C1008,Neha Gupta,neha.gupta@gmail.com,9636374545,2025-04-06,Allen Solly Shirt,Clothing,3,1799,0,5397.0,Net Banking,Pending,Mumbai,Maharashtra,India,,
+ORD5058,C1001,Aarav Sharma,aarav.sharma@gmail.com,9026217459,2025-04-13,boAt Rockerz 450,Electronics,1,1499,20,1199.2,Cash on Delivery,Returned,Hyderabad,Telangana,India,2025-04-22,
+ORD5133,C1001,Aarav Sharma,aarav.sharma@gmail.com,+91 92656 76618,2026-04-29,Lakme Face Wash,beauty,3,249,15,634.95,Debit Card,Shipped,Pune,Maharashtra,IN,2026-05-01,
+ORD5059,C1011,Amit Desai,amit.desai@gmail.com,9091343161,,Samsung Galaxy M34,Electronics,3,16999,15,43347.45,Credit Card,Pending,Hyderabad,Telangana,India,,
+ORD5101,C1003,ROHAN MEHTA,rohan.mehta@gmail.com,,2026-01-12,Milton Water Bottle,Home & Kitchen,1,599,15,509.15,UPI,Delivered,Ahmedabad,Gujarat,India,2026-01-18,3
+ORD5036,C1013,Siddharth Rao,siddharth.rao@gmail.com,9080531003,2025-10-12,Lakme Face Wash,Beauty,3,249,0,747.0,Debit Card,Returned,Kolkata,West Bengal,India,2025-10-20,
+ORD5012,C1010,Pooja Joshi,pooja.joshi@gmail.com,9518347382,2025-03-14,Levi's Jeans,CLOTHING,2,2499,0,4998.0,Net Banking,Delivered,Mumbai,Maharashtra,India,2025-03-16,7
+ORD5223,C1011,Amit Desai,amit.desai@gmail.com,abcdefghij,2025-04-02,Lakme Face Wash,Beauty,3,249,5,709.65,Credit Card,Cancelled,Hyderabad,Telangana,India,,
+ORD5197,C1003,Rohan Mehta,rohan.mehta@gmail.com,9859321334,2025-08-13,iPhone 13,Electronics,3,54999,0,164997.0,Net Banking,Returned,Hyderabad,Telangana,India,2025-08-15,
+ORD5096,C1014,Kavya Pillai,kavya.pillai@gmail.com,+91 90369 71179,2025-04-24,boAt Rockerz 450,Electronics,2,1499,10,2698.2,Credit Card,Delivered,Kolkata,West Bengal,India,2025-04-30,5
+ORD5008,C1009,Rahul Nair,rahul.nair@gmail.com,9627048281,2025-04-28,Cosco Football,Sports,3,799,0,2397.0,UPI,Cancelled,Mumbai,Maharashtra,India,,
+ORD5066,C1001,Aarav Sharma,aarav.sharma@gmail.com,9513709859,2026-04-11,Nike T-Shirt,Clothing,3,1299,20,3117.6,Debit Card,Returned,Pune,Maharashtra,India,2026-04-18,
+ORD5110,C1003,Rohan Mehta,rohan.mehta@gmail.com,9943969078,2026-08-01,Python Crash Course,Books,1,699,0,699.0,upi,Delivered,Hyderabad,Telangana,India,2026-08-03,3
+ORD5105,C1013,Siddharth Rao,siddharth.rao@gmail.com,9217271551,2025-08-08,Nike T-Shirt,Clothing,4,1299,5,4936.2,UPI ,Delivered,Ahmedabad,Gujarat,India,2025-08-14,5
+ORD5030,C1004,Sneha Iyer,sneha.iyer@gmail.com,9163287083,2026-05-22,Wings of Fire,Books,2,299,5,568.1,Cash on Delivery,Delivered,Kolkata,West Bengal,India,2026-05-30,1
+ORD5070,C1002,Priya Patel,priya.patel@gmail.com,98765,2026-08-24,Cosco Football,Sports,2,799,10,68930.57,Credit Card,Shipped,Bengaluru,Karnataka,India,2026-08-29,
+ORD5109,C1009,,rahul.nair@gmail.com,9249818299,2025-03-22,Lakme Face Wash,Beauty,2,249,20,398.4,Debit Card,Cancelled,Chennai,Tamil Nadu,India,,
+ORD5205,C1001,Aarav Sharma,aarav.sharma@gmail.com,9218159970,2025-04-18,Allen Solly Shirt,Clothing,3,1799,5,5127.15,Cash on Delivery,Returned,Bangalore,Tamil Nadu,India,2025-04-21,
+ORD5183,C1012,Divya Menon,divya.menon@gmail.com,9814917785,2025-05-01,Yonex Badminton Racket,Sports,3,1899,15,4842.45,Credit Card,Cancelled,Chennai,Tamil Nadu,India,,
+ORD5065,C1009,RAHUL NAIR,neha gupta@yahoo.com,9171236851,2025-06-18,Philips Air Fryer,Home & Kitchen,4,7499,10,26996.4,Cash on Delivery,Cancelled,Chennai,Tamil Nadu,India,,-3
+ORD5039,C1011,,amit.desai@gmail.com,9165726284,2026-06-03,Allen Solly Shirt,Clothing,1,1799,15,1529.15,Net Banking,Returned,Pune,Maharashtra,India,2026-06-10,
+ORD5230,C1007,Karan Verma,karan.verma@gmail.com,9618499261,2026-05-01,Samsung Galaxy M34,Electronics,2,16999,0,33998.0,Net Banking,Cancelled,Chennai,Tamil Nadu,India,,
+ORD5119,C1010,Pooja Joshi,pooja.joshi@gmail.com,9623091307,2026-08-21,Levi's Jeans,Clothing,2,2499,20,3998.4,UPI,Pending,mumbai,Maharashtra,India,2026-08-17,
+ORD5213,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9799702462,,Samsung Galaxy M34,Electronics,4,16999,10,61196.4,Net Banking,Returned,Pune,Maharashtra,India,2025-10-27,
+ORD5005,C1011,AMIT DESAI,amit.desai@gmail.com,09350305641,2025-06-17,boAt Rockerz 450,Electronics,4,1499,10,5396.4,Debit Card,Pending,Bengaluru,Karnataka,INDIA,,
+ORD5194,C1004,Sneha Iyer,sneha.iyer@gmail.com,9702966706,2025-05-12,Lakme Face Wash,Beauty,3,249,0,747.0,Debit Card,Delivered,,Gujarat,India,2025-05-15,4
+ORD5145,C1010,Pooja Joshi,pooja.joshi@gmail.com,9600848408,2026-05-15,Python Crash Course,Books,1,699,20,559.2,Cash on Delivery,Pending,Ahmedabad,Gujarat,India,,
+ORD5250,C1012,  Divya Menon  ,divya.menon@gmail.com,,2025-02-10,Lakme Face Wash,Beauty,3,Rs. 249,20,597.6,nan,Delivered,Delhi,Delhi,India,2025-02-14,2
+ORD5072,C1010,Pooja Joshi,pooja.joshi@gmail.com,,2026-05-31,Samsung Galaxy M34,,1,16999,20,13599.2,,Cancelled,Ahmedabad,Gujarat,India,,
+ORD5207,C1007,Karan Verma,karan.verma@gmail.com,9149731032,2025-06-07,Atomic Habits,Books,3,499,0,1497.0,UPI,Returned,Ahmedabad,TN,India,2025-06-09,
+ORD5008,C1009,Rahul Nair,rahul.nair@gmail.com,9627048281,2025-04-28,Cosco Football,Sports,3,799,0,2397.0,UPI,Cancelled,Mumbai,Maharashtra,India,,
+ORD5179,C1008,Neha Gupta,neha.gupta@gmail.com,9696582710,2026-06-25,Python Crash Course,Books,3,699,10,1887.3,Net Banking,Shipped,Pune,Maharashtra,India,2026-06-27,
+ORD5185,C1007,Karan Verma,,9365419518,2025-07-03,Lakme Face Wash,Beauty,,249,5,946.2,Credit Card,Cancelled,hyderabad,Delhi,India,,
+ORD5168,C1010,Pooja Joshi,pooja.joshi@gmail.com,9361340745,2026-07-11,Samsung Galaxy M34,Electronics,1,16999,15,14449.15,Credit Card,Pending,Chennai,Tamil Nadu,India,,
+ORD5103,C1003,Rohan Mehta,rohan.mehta@gmail.com,9569092755,2025-02-05,Cosco Football,Sports,1,799,5,759.05,Cash on Delivery,Cancelled,Ahmedabad,Gujarat,India,,
+ORD5220,C1002,Priya Patel,priya.patel@gmail.com,9154544432,2026-07-29,iPhone 13,Electronics,3,54999,0,164997.0,Net Banking,shipped,Hyderabad,Telangana,India,2026-08-04,
+ORD5027,C1011,Amit Desai,amit.desai@gmail.com,9482366299,2025-11-04,Cosco Football,Sports,4,799,10,2876.4,debit card,Returned,Pune,Maharashtra,India,2025-11-10,
+ORD5002,C1001,Aarav Sharma,aarav.sharma@gmail.com,9402654235,2026-07-13,Philips Air Fryer,Home & Kitchen,2,7499,15,12748.3,Credit Card,Pending,Bengaluru,Karnataka,India,,
+ORD5010,C1004,NULL,sneha.iyer@gmail.com,9278248963,2025-03-29,Lakme Face Wash,Beauty,1,249,20,199.2,Net Banking,Shipped,Pune,Maharashtra,India,2025-04-07,
+ORD5226,C1003,Rohan Mehta,rohan.mehta@gmail.com,9008350583,2026-03-16,Atomic Habits,Books,4,499,15,1696.6,nan,Returned,Kolkata,West Bengal,India,2026-03-24,
+ORD5078,C1003,Rohan Mehta,rohan.mehta@gmail.com,9525459910,2025-04-04,Wings of Fire,Books,4,299,15,1016.6,Debit Card,Returned,Mumbai,Maharashtra,India,2025-04-09,
+ORD5224,C1014,Kavya Pillai,,9460223569,04-29-2026,Python Crash Course,Books,1,699,15,594.15,Cash on Delivery,Pending,Pune,Maharashtra,India,,
+ORD5047,C1013,Siddharth Rao,siddharth.rao@gmail.com,9499091334,2026-04-07,Philips Air Fryer,home & kitchen,3,7499,20,17997.6,Credit Card,Returned,Kolkata,West Bengal,India,2026-04-16,
+ORD5097,C1011,Amit Desai,amit.desai@gmail.com,9539621851,2025-05-28,Philips Air Fryer,Home & Kitchen,4,7499,0,29996.0,Net Banking,Pending,Bengaluru,Karnataka,India,2025-05-21,5
+ORD5182,C1002,Priya Patel,priya.patel@gmail.com,9027588425,2025-11-13,milton water bottle,Home & Kitchen,1,599,0,599.0,Debit Card,Shipped,Mumbai,Maharashtra,India,2025-11-17,
+ORD5147,C1010,Pooja Joshi,pooja.joshi@gmail.com,9668700217,2025-11-04,Levi's Jeans,CLOTHING,1,Rs. 2499,0,2499.0,Cash on Delivery,Returned,New Delhi,Karnataka,India,2025-11-07,
+ORD5157,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,,2026-07-13,Atomic Habits,Books,1,499,15,424.15,Debit Card,Shipped,Bengaluru,Karnataka,India,2026-07-17,
+ORD5246,C1015,Manish Kulkarni,,9003424420,,Cosco Football,SPORTS,1,799,15,679.15,UPI,Shipped,Kolkata,West Bengal,India,2025-01-17,
+ORD5253,C1001,Aarav Sharma,aarav.sharma@gmail.com,9358112880,2026-06-11,Lakme Face Wash,Beauty,4,249,0,996.0,Credit Card,Cancelled,Hyderabad,Telangana,India,,
+ORD5111,C1008,Neha Gupta,neha.gupta@gmail.com,9767735925,2025-11-01,Levi's Jeans,Clothing,1,2499,0,2499.0,UPI,Shipped,Kolkata,West Bengal,India,2025-11-10,
+ORD5121,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9334843443,2026-07-14,Philips Air Fryer,Home & Kitchen,3,7499,20,17997.6,Cash on Delivery,Returned,Hyderabad,Telangana,India,2026-07-21,0
+ORD5174,C1003,Rohan Mehta,rohan.mehta@gmail.com,9206436110,04-06-2025,Cosco Football,Sports,3,799,0,2397.0,debit card,Cancelled,Chennai,Tamil Nadu,India,,
+ORD5242,C1004,NULL,sneha.iyer@gmail.com,+91 91779 82708,2025-12-13,Milton Water Bottle,Home & Kitchen,4,599,0,2396.0,Credit Card,Pending,Bengaluru,Karnataka,India,,
+ORD5074,C1007,Karan Verma,karan.verma@gmail.com,9657661565,2026-07-19,Samsung Galaxy M34,Electronics,4,16999,15,57796.6,UPI,Shipped,Pune,Maharashtra,India,2026-07-24,
+ORD5114,C1002,Priya Patel,,9479748016,2025-09-04,Prestige Mixer Grinder,Home & Kitchen,3,3299,0,9897.0,UPI,Delivered,Ahmedabad,Gujarat,India,2025-09-09,2
+ORD5123,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9842199330,2031-05-14,Milton Water Bottle,N/A,2,599,20,958.4,Net Banking,Cancelled,bangalore,Tamil Nadu,India,,
+ORD5253,C1001,Aarav Sharma,aarav.sharma@gmail.com,9358112880,2026-06-11,Lakme Face Wash,Beauty,4,249,0,996.0,Credit Card,Cancelled,Hyderabad,Telangana,India,,
+ORD5211,C1013,Siddharth Rao,siddharth.rao@gmail.com,9616329451,2025-06-21,milton water bottle,HOME & KITCHEN,2,599,5,1138.1,Cash on Delivery,Delivered,Delhi,Delhi,India,2025-06-17,1
+ORD5229,C1009,Rahul Nair,,9909010016,2026-01-11,boAt Rockerz 450,n/a,4,Rs. 1499,10,5396.4,Net-Banking,Pending,Pune,Maharashtra,India,,
+ORD5026,C1010,Pooja Joshi,pooja.joshi@gmail.com,9088356159,2026-01-30,Philips Air Fryer,Home & Kitchen,3,7499,0,22497.0,UPI,Returned,Pune,Maharashtra,India,2026-02-04,
+ORD5184,C1008,Neha Gupta,,9138000307,2026-01-12,Cosco Football,Sports,3,799,0,2397.0,UPI,Pending,Delhi,Delhi,India,,
+ORD5221,C1013,Siddharth Rao,siddharth.rao@gmail.com,9446660993,2026-02-18,Levi's Jeans,Clothing,2,2499,0,4998.0,UPI,delivered,Mumbai,Maharashtra,India,2026-02-25,
+ORD5199,C1010,Pooja Joshi,pooja.joshi@gmail.com,9103930870,2026-07-10,Levi's Jeans,Clothing,,2499,15,4248.3,Net Banking,Delivered,Ahmedabad,Gujarat,India,2026-07-16,3
+ORD5237,C1002,Priya Patel,,9900287721,2026-05-09,Prestige Mixer Grinder,HOME & KITCHEN,4,3299,5,12536.2,Cash on Delivery,Pending,Bengaluru,Karnataka,India,,
+ORD5107,C1008,Neha Gupta,neha.gupta@gmail.com,9866912517,2025-03-30,Yonex Badminton Racket,Sports,3,1899,15,4842.45,Cash on Delivery,Returned,Delhi,Delhi,India,2025-04-02,
+ORD5173,C1010,Pooja Joshi,pooja.joshi@gmail.com,9012770632,2025-12-18,boAt Rockerz 450,Electronics,-1,1499,0,1499.0,UPI,Returned,Ahmedabad,Gujarat,India,2025-12-20,
+ORD5009,C1014,Kavya Pillai,kavya.pillai@gmail.com,9095701543,2025-06-06,Python Crash Course,Books,2,699,20,1118.4,Credit Card,Pending,Bengaluru,Karnataka,India,,
+ORD5085,C1013,Siddharth Rao,siddharth.rao@gmail.com,9177449058,2026-08-02,Atomic Habits,,3,499,5,1422.15,,Returned,Ahmedabad,Gujarat,India,2026-08-09,
+ORD5067,C1011,Amit Desai,amit.desai@gmail.com,9047113826,2025-11-06,Samsung Galaxy M34,electronics,1,16999,5,16149.05,UPI,shipped,Ahmedabad,Gujarat,India,2025-11-14,4
+ORD5013,C1008,Neha Gupta,neha.gupta@gmail.com,9566701065,2026-02-21,Levi's Jeans,Clothing,1,2499,0,2499.0,Credit Card,Returned,Ahmedabad,Gujarat,India,2026-02-26,
+ORD5015,C1002,Priya Patel,priya.patel@gmail.com,9602606474,2025-06-20,Lakme Face Wash,BEAUTY,4,249,15,846.6,Cash on Delivery,Shipped,Bengaluru,Karnataka,INDIA,2025-06-28,
+ORD5152,C1006,Ananya Reddy,ananya.reddy@gmail.com,9121267888,2025-01-06,Samsung Galaxy M34,ELECTRONICS,4,16999,10,61196.4,Cash on Delivery,Cancelled,Pune,Maharashtra,India,,
+ORD5131,C1010,Pooja Joshi,pooja.joshi@gmail.com,9971870728,2025-06-18,Philips Air Fryer,Home & Kitchen,4,7499,0,29996.0,Cash on Delivery,SHIPPED,Delhi,Delhi,India,2025-06-25,
+ORD5053,C1014,Kavya Pillai,kavya.pillai@gmail.com,9859770348,10-Jul-2026,Philips Air Fryer,Home & Kitchen,4,,0,29996.0,Debit Card,Shipped,Mumbai,Maharashtra,India,2026-07-19,
+ORD5135,C1004,Sneha Iyer,sneha.iyer@gmail.com,,2025-06-08,Milton Water Bottle,Home & Kitchen,2,,0,1198.0,Net Banking,Delivered,Hyderabad,Telangana,India,2025-06-14,4
+ORD5073,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9985698478,2025-06-01,Samsung Galaxy M34,Electronics,2,16999,10,30598.2,Net Banking,Pending,Hyderabad,Telangana,India,,
+ORD5208,C1002,NULL,priya.patel@gmail.com,9186256527,2025-11-12,Milton Water Bottle,Home & Kitchen,-1,599,15,2036.6,Credit Card,Cancelled,,Maharashtra,India,,
+ORD5165,C1002,Priya Patel,priya.patel@gmail.com,9966278282,2025-05-25,boAt Rockerz 450,Electronics,4,1499,20,4796.8,Cash on Delivery,Shipped,Hyderabad,Telangana,India,2025-06-02,
+ORD5239,C1006,Ananya Reddy,ananya.reddy@gmail.com,9880199488,2025-01-19,Samsung Galaxy M34,Electronics,4,16999,15,57796.6,Cash on Delivery,Delivered,Ahmedabad,Gujarat,India,2025-01-22,2
+ORD5248,C1013,Siddharth Rao,siddharth.rao@gmail.com,9973598933,2026-07-20,Python Crash Course,Books,1,699,10,629.1,debit card,Shipped,Hyderabad,Telangana,India,2026-07-22,
+ORD5120,C1007,KARAN VERMA,karan.verma@gmail.com,9838578652,2025-07-28,boAt Rockerz 450,Electronics,,1499,0,5996.0,Cash on Delivery,Canceled,Kolkata,West Bengal,India,2025-08-05,
+ORD5156,C1006,Ananya Reddy,ananya.reddy@gmail.com,9479356465,2026-05-06,Atomic Habits,Books,2,499,15,44278.93,Credit Card,Cancelled,Bengaluru,Karnataka,India,,
+ORD5062,C1006,Ananya Reddy,ananya.reddy@gmail.com,09671369594,03-11-2026,Atomic Habits,Books,4,499,10,1796.4,UPI,Shipped,Chennai,Tamil Nadu,India,2026-03-17,
+ORD5165,C1002,Priya Patel,priya.patel@gmail.com,9966278282,2025-05-25,boAt Rockerz 450,Electronics,4,1499,20,4796.8,Cash on Delivery,Shipped,Hyderabad,Telangana,India,2025-06-02,
+ORD5005,C1011,AMIT DESAI,amit.desai@gmail.com,09350305641,2025-06-17,boAt Rockerz 450,Electronics,4,1499,10,5396.4,Debit Card,Pending,Bengaluru,Karnataka,INDIA,,
+ORD5193,C1013,Siddharth Rao,siddharth.rao@gmail.com,9365199410,2025-05-05,Yonex Badminton Racket,Sports,1,,5,1804.05,Credit Card,Shipped,,Delhi,India,2025-05-07,
+ORD5098,C1009,Rahul Nair,rahul.nair@gmail.com,9405153195,02-04-2026,Philips Air Fryer,Home & Kitchen,1,7499,15,6374.15,Debit Card,Cancelled,Mumbai,Maharashtra,India,,
+ORD5130,C1012,Divya Menon,divya.menon@gmail.com,9878519108,2026-07-05,Philips Air Fryer,Home & Kitchen,2,7499,20,11998.4,UPI ,Delivered,Ahmedabad,Gujarat,India,2026-07-10,5
+ORD5001,C1011,Amit Desai,amit.desai@gmail.com,9819600133,2025-10-09,Samsung Galaxy M34,Electronics,2,16999,5,26971.95,Net Banking,delivered,hyderabad,Maharashtra,India,2025-10-14,5
+ORD5117,C1001,Aarav Sharma,aarav.sharma@gmail.com,9259526949,2026-05-01,boAt Rockerz 450,Electronics,2,1499,20,2398.4,UPI,Pending,Hyderabad,Telangana,India,,
+ORD5094,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9060685361,24/03/2026,Philips Air Fryer,Home & Kitchen,2,7499,15,12748.3,UPI,Cancelled,Delhi,Delhi,India,,5
+ORD5260,C1010,NULL,pooja.joshi@gmail.com,9492995562,2025-11-22,Samsung Galaxy M34,Electronics,4,16999,10,61196.4,Credit Card,Pending,Bengaluru,KA,India,,
+ORD5068,C1011,Amit Desai,neha gupta@yahoo.com,9640537735,08/06/2025,Wings of Fire,Books,1,299,15,254.15,Credit Card,Pending,Kolkata,West Bengal,India,,
+ORD5233,C1008,Neha Gupta,neha.gupta@gmail.com,9455611002,2026-04-21,Nike T-Shirt,Clothing,,1299,5,1234.05,UPI,Delivered,Chennai,Karnatak,India,2026-04-23,2
+ORD5116,C1005,Vikram Singh,vikram.singh@gmail.com,9852398680,2025-05-12,Cosco Football,Sports,4,799,10,2876.4,Credit Card,Cancelled,Pune,Maharashtra,India,,
+ORD5186,C1003,Rohan Mehta,rohan.mehta@gmail.com,+91 95187 05349,2026-02-15,Levi's Jeans,Clothing,4,-499,10,8996.4,UPI,Cancelled,Mumbai,Maharashtra,India,,
+ORD5136,C1011,Amit Desai,amit.desai@gmail.com,9830284395,2025-09-08,Wings of Fire,Books,,299,15,1016.6,Net Banking,Shipped,Mumbai,Maharashtra,India,2025-09-10,
+ORD5258,C1009,Rahul Nair,rahul.nair@gmail.com,9822239431,2025-11-09,Philips Air Fryer,,3,7499,5,21372.15,Debit Card,Returned,Pune,TS,India,2025-11-14,
+ORD5225,C1003,ROHAN MEHTA,rohan.mehta@gmail.com,9007432927,2025-03-24,Allen Solly Shirt,Clothing,3,1799,5,5127.15,Credit Card,Cancelled,Delhi,Delhi,India,,
+ORD5142,C1013,Siddharth Rao,,9932048996,2025-07-28,Cosco Football,Sports,3,799,15,2037.45,Debit Card,Delivered,bangalore,Telangana,India,2025-08-04,3
+ORD5216,C1005,vikram singh,vikram.singh@gmail.com,9030705345,2025-05-19,Wings of Fire,Books,0,299,5,568.1,Cash on Delivery,DELIVERED,Kolkata,West Bengal,India,2025-05-21,
+ORD5120,C1007,Karan Verma,karan.verma@gmail.com,9838578652,2025-07-28,boAt Rockerz 450,Electronics,,1499,0,5996.0,Cash on Delivery,Canceled,Kolkata,West Bengal,India,2025-08-05,
+ORD5244,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9226984858,2025-10-08,Wings of Fire,Books,3,299,10,807.3,Debit Card,Returned,Bengaluru,Karnataka,India,2025-10-16,
+ORD5090,C1011,Amit Desai,amit.desai@gmail.com,,2026-06-05,python crash course,Books,1,,10,629.1,UPI,Cancelled,Kolkata,TN,India,,
+ORD5140,C1007,Karan Verma,karan.verma@gmail.com,abcdefghij,2031-05-14,Python Crash Course,Books,2,699,15,1188.3,Debit Card,Shipped,Mumbai,Maharashtra,India,2025-03-21,
+ORD5048,C1003,Rohan Mehta,rohan.mehta@gmail.com,9797403447,2026-07-20,Levi's Jeans,Clothing,2,2499,0,4998.0,Credit Card,Canceled,Delhi,Delhi,India,2026-07-23,
+ORD5146,C1013,Siddharth Rao,amit.desai.gmail.com,9984546156,2025-02-30,lakme face wash,Beauty,2,249,5,473.1,Cash on Delivery,SHIPPED,Delhi,Delhi,India,2025-04-23,
+ORD5049,C1011,Amit Desai,amit.desai@gmail.com,9242102499,2025-07-22,Levi's Jeans,Clothing,1,2499,20,1999.2,UPI,Shipped,Chennai,Tamil Nadu,India,2025-07-30,
+ORD5126,C1010,Pooja Joshi,pooja.joshi@gmail.com,9743152742,2025-10-19,Samsung Galaxy M34,Electronics,4,16999,5,64596.2,Credit Card,Pending,Hyderabad,Telangana,India,,
+ORD5139,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9351751830,2026-03-03,iPhone 13,Electronics,4,9999999,5,208996.2,UPI,Cancelled,Kolkata,West Bengal,India,,
+ORD5076,C1007,Karan Verma,karan.verma@gmail.com,9983273158,2025-02-22,Allen Solly Shirt,Clothing,3,1799,10,4857.3,Credit Card,Delivered,Kolkata,West Bengal,India,2025-02-28,3
+ORD5144,C1003,Rohan Mehta,rohan.mehta@gmail.com,,2026-06-21,Lakme Face Wash,Beauty,1,249,0,249.0,Credit Card,Delivered,Mumbai,Maharashtra,India,2026-06-23,3
+ORD5247,C1004,Sneha Iyer,sneha.iyer@gmail.com,9386384066,,Yonex Badminton Racket,Sports,1,1899,20,1519.2,,SHIPPED,Mumbai,Maharashtra,india,,
+ORD5181,C1005,Vikram Singh,vikram.singh@gmail.com,9691463031,2025-03-22,Samsung Galaxy M34,Electronics,2,16999,20,27198.4,,Cancelled,Bangalore,Tamil Nadu,INDIA,,
+ORD5209,C1005,Vikram Singh,vikram.singh@gmail.com,9211586938,2025-09-27,Milton Water Bottle,Home & Kitchen,3,599,20,1437.6,Cash on Delivery,Delivered,Ahmedabad,TS,India,2025-10-02,1
+ORD5235,C1003,Rohan Mehta,rohan.mehta@gmail.com,+91 99729 65902,2025-06-13,Wings of Fire,Books,4,299,20,956.8,Cash on Delivery,Returned,Mumbai,Maharashtra,India,2025-06-16,
+ORD5035,C1010,Pooja Joshi,pooja.joshi@gmail.com,9720465375,2026-02-08,Philips Air Fryer,HOME & KITCHEN,1,7499,15,6374.15,UPI,Shipped,Mumbai,Maharashtra,Bharat,2026-02-10,
+ORD5188,C1001,Aarav Sharma,aarav.sharma@gmail.com,09670241038,2025-11-11,Yonex Badminton Racket,Sports,2,1899,20,3038.4,Cash on Delivery,Shipped,,West Bengal,India,2025-11-14,
+ORD5097,C1011,Amit Desai,amit.desai@gmail.com,9539621851,2025-05-28,Philips Air Fryer,Home & Kitchen,4,7499,0,29996.0,Net Banking,Pending,Bengaluru,Karnataka,India,2025-05-21,5
+ORD5006,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9423884969,2025-08-06,Atomic Habits,N/A,4,499,15,67994.99,Cash on Delivery,Shipped,Hyderabad,Telangana,India,2025-08-15,
+ORD5050,C1008,Neha Gupta,neha.gupta@gmail.com,9771906594,2025-11-08,Samsung Galaxy M34,Electronic,3,16999,20,40797.6,Credit Card,Pending,Ahmedabad,Gujarat,India,,
+ORD5113,C1001,Aarav Sharma,aarav.sharma@gmail.com,9532787747,2026-03-05,Nike T-Shirt,Clothing,2,1299,10,2338.2,Credit Card,Pending,Kolkata,West Bengal,IN,,
+ORD5089,C1014,Kavya Pillai,kavya.pillai@gmail.com,9291486528,2025-03-25,boAt Rockerz 450,Electronics,3,1499,10,4047.3,Credit Card,Returned,Hyderabad,Telangana,India,2025-03-29,
+ORD5012,C1010,Pooja Joshi,pooja.joshi@gmail.com,9518347382,2025-03-14,Levi's Jeans,CLOTHING,2,2499,0,4998.0,Net Banking,Delivered,Mumbai,Maharashtra,India,2025-03-16,7
+ORD5143,C1004,Sneha Iyer,sneha.iyer@gmail.com,9477725228,2026-01-24,Allen Solly Shirt,Clothing,4,1799,20,5756.8,Cash on Delivery,Cancelled,Bengaluru,Karnataka,India,,
+ORD5082,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9160529751,2026-08-13,Samsung Galaxy M34,,4,16999,15,57796.6,Cash on Delivery,Cancelled,Hyderabad,Telangana,India,,
+ORD5060,C1008,Neha Gupta,neha.gupta@gmail.com,9556238692,2025-01-30,boAt Rockerz 450,Electronics,3,1499,0,4497.0,Debit Card,Cancelled,Chennai,TN,INDIA,,
+ORD5125,C1006,Ananya Reddy,ananya.reddy@gmail.com,9206724004,2025-04-02,Nike T-Shirt,Clothing,1,1299,5,1234.05,Net Banking,Returned,Mumbai,Maharashtra,India,2025-04-07,
+ORD5033,C1012,Divya Menon,divya.menon@gmail.com,9603669096,2026-03-01,Levi's Jeans,clothing,,2499,150,5997.6,Cash on Delivery,Returned,Pune,Maharashtra,India,2026-03-09,
+ORD5028,C1007,Karan Verma,karan.verma@gmail.com,9957773872,11-08-2025,Philips Air Fryer,Home & Kitchen,2,7499,100,12748.3,Credit Card,Pending,Mumbai,Maharashtra,India,,
+ORD5138,C1001,Aarav Sharma,aarav.sharma@gmail.com,946-287-3342,2025-02-30,Allen Solly Shirt,Clothing,4,1799,15,6116.6,Cash on Delivery,Shipped,Kolkata,West Bengal,India,2026-06-29,
+ORD5180,C1002,Priya Patel,priya.patel@gmail.com,9486661889,2025-08-09,iphone 13,Electronics,1,54999,15,46749.15,Debit Card,canceled,Chennai,Tamil Nadu,India,,
+ORD5202,C1003,Rohan Mehta,rohan.mehta@gmail.com,9593917251,2026-08-10,boAt Rockerz 450,Electronics,1,1499,5,1424.05,Debit Card,Pending,Mumbai,Maharashtra,India,,
+ORD5166,C1005,Vikram Singh,vikram.singh@gmail.com,9723688767,2025-11-19,boAt Rockerz 450,Electronics,1,,10,1349.1,Cash on Delivery,Delivered,Delhi,Delhi,India,2025-11-28,4
+ORD5092,C1006,Ananya Reddy,ananya.reddy@gmail.com,9347359774,31/03/2026,Python Crash Course,Books,4,699,5,2656.2,Net-Banking,Pending,Bengaluru,Karnataka,India,,
+ORD5190,C1014,Kavya Pillai,kavya.pillai@gmail.com,9132912127,2025-12-01,Allen Solly Shirt,Clothing,,1799,10,6476.4,UPI ,delivered,Kolkata,West Bengal,India,2025-12-08,
+ORD5016,C1012,,divya.menon@gmail.com,9980500978,2025-06-08,Wings of Fire,Books,3,299,5,852.15,Debit Card,Delivered,Ahmedabad,Gujarat,India,2025-06-13,5
+ORD5161,C1013,Siddharth Rao,,9514010512,2025-12-23,Levi's Jeans,Clothing,1,2499,15,2124.15,Debit Card,Returned,Ahmedabad,Gujarat,India,2026-01-01,
+ORD5087,C1011,Amit Desai,amit.desai@gmail.com,9518203778,2026-05-03,Levi's Jeans,Clothing,1,2499,15,2124.15,Net Banking,Delivered,MUMBAI,Telangana,India,2026-05-07,5
+ORD5159,C1013,Siddharth Rao,rohan@@gmail.com,abcdefghij,20/06/2025,Levi's Jeans,Clothing,4,2499,10,8996.4,Net Banking,Returned,Hyderabad,Telangana,India,2025-06-22,
+ORD5176,C1006,Ananya Reddy,ananya.reddy@gmail.com,09890927532,2025-05-21,Allen Solly Shirt,Clothing,2,1799,5,3418.1,Net Banking,Delivered,Chennai,Tamil Nadu,India,2025-05-29,4
+ORD5024,C1007,Karan Verma,karan.verma@gmail.com,9433036541,2026-04-27,Cosco Football,Sports,2,,15,1358.3,UPI,Cancelled,Mumbai,Maharashtra,India,,
+ORD5140,C1007,Karan Verma,karan.verma@gmail.com,abcdefghij,2031-05-14,Python Crash Course,Books,2,699,15,1188.3,Debit Card,Shipped,Mumbai,Maharashtra,India,2025-03-21,
+ORD5243,C1009,RAHUL NAIR,rahul.nair@gmail.com,9216995866,2026-08-23,Lakme Face Wash,Beauty,2,249,-10,398.4,Net Banking,Shipped,Kolkata,West Bengal,India,2026-09-01,
+ORD5064,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9214562328,13/11/2025,Python Crash Course,Books,1,699,20,559.2,UPI,Cancelled,Mumbai,Maharashtra,India,,
+ORD5023,C1011,Amit Desai,amit.desai@gmail.com,9260256342,2026-07-28,Samsung Galaxy M34,Electronics,2,16999,5,32298.1,Credit Card,Canceled,Hyderabad,Telangana,India,2026-08-05,
+ORD5254,C1004,Sneha Iyer,sneha.iyer@gmail.com,9120750110,03-11-2026,Python Crash Course,Books,2,699,20,1118.4,Debit Card,Returned,Bengaluru,Karnataka,India,2026-03-14,
+ORD5096,C1014,Kavya Pillai,kavya.pillai@gmail.com,+91 90369 71179,2025-04-24,boAt Rockerz 450,Electronics,2,1499,10,2698.2,Credit Card,Delivered,Kolkata,West Bengal,India,2025-04-30,5
+ORD5040,C1013,Siddharth Rao,siddharth.rao@gmail.com,,22-Apr-2026,Lakme Face Wash,Beauty,3,249,10,672.3,Credit Card,Shipped,,Gujarat,India,2026-04-30,
+ORD5153,C1002,Priya Patel,priya.patel@gmail.com,9466183982,2025-12-29,iPhone 13,Electronics,3,54999,15,140247.45,Debit Card,Delivered,Pune,Maharashtra,India,2026-01-01,4
+ORD5206,C1011,Amit Desai,amit.desai@gmail.com,9368844431,2025-06-10,boAt Rockerz 450,Electronics,1,1499,10,1349.1,Credit card,Shipped,Kolkata,West Bengal,India,2025-06-12,
+ORD5249,C1008,Neha Gupta,neha.gupta@gmail.com,9648422940,2025-07-11,boAt Rockerz 450,Electronics,1,1499,15,1274.15,Cash on Delivery,Delivered,Pune,Maharashtra,India,2025-07-15,3
+ORD5177,C1011,Amit Desai,amit.desai@gmail.com,9656523413,2025-03-30,milton water bottle,Home & Kitchen,2,599,0,71818.85,CC,Pending,Bengaluru,Karnataka,India,,
+ORD5053,C1014,Kavya Pillai,kavya.pillai@gmail.com,9859770348,10-Jul-2026,Philips Air Fryer,Home & Kitchen,4,,0,29996.0,Debit Card,Shipped,Mumbai,Maharashtra,India,2026-07-19,
+ORD5149,C1015X,Manish Kulkarni,manish.kulkarni@gmail.com,9429396856,2025-01-17,Cosco Football,Sports,2,799,15,1358.3,Credit Card,Delivered,Hyderabad,Telangana,India,2025-01-22,2
+ORD5245,C1004,Sneha Iyer,sneha.iyer@gmail.com,9515879968,2025-12-20,Levi's Jeans,Clothing,2,2499,20,3998.4,UPI,SHIPPED,Chennai,Tamil Nadu,India,,
+ORD5003,C1002,Priya Patel,priya.patel@gmail.com,9816184959,2026-01-03,Prestige Mixer Grinder,Home & Kitchen,3,3299,0,9897.0,Debit Card,Returned,Pune,TN,India,2026-01-10,
+ORD5252,C1014,Kavya Pillai,kavya.pillai@gmail.com,9930561648,2025-04-28,Yonex Badminton Racket,SPORTS,4,1899,5,7216.2,UPI,Pending,Mumbai,Maharashtra,India,,
+ORD5203,C1006,Ananya Reddy,ananya.reddy@gmail.com,9331541006,2025-04-01,Allen Solly Shirt,Clothing,4,9999999,0,7196.0,Cash on Delivery,Cancelled,Delhi,Delhi,India,2025-03-27,
+ORD5257,C1004,Sneha Iyer,sneha.iyer@gmail.com,9088210099,2026-07-13,boAt Rockerz 450,Electronics,2,1499,10,2698.2,,Cancelled,Kolkata,West Bengal,India,,
+ORD5031,C1003,Rohan Mehta,rohan.mehta@gmail.com,9687277434,28-Jun-2026,Yonex Badminton Racket,Sports,4,1899,20,6076.8,Net Banking,Pending,Ahmedabad,Gujarat,India,,
+ORD5150,C1009,Rahul Nair,rahul.nair@gmail.com,9599965047,2025-02-24,Wings of Fire,Books,4,299,5,1136.2,Debit Card,Delivered,Hyderabad,Telangana,India,2025-02-27,4
+ORD5071,C1003,Rohan Mehta,rohan.mehta@gmail.com,9026811775,2025-09-01,iPhone 13,Electronics,1,54999,5,52249.05,cod,Cancelled,Hyderabad,Telangana,India,,
+ORD5204,C1012,divya menon,divya.menon@gmail.com,9617932710,2026-02-28,Prestige Mixer Grinder,Home & Kitchen,4,3299,150,11876.4,upi,Pending,Delhi,Delhi,India,,
+ORD5043,C1009,Rahul Nair,rahul.nair@gmail.com,9443135182,2026-03-12,Philips Air Fryer,home & kitchen,3,7499,100,19122.45,Debit Card,canceled,Hyderabad,Telangana,India,,
+ORD5004,C1012,Divya Menon,divya.menon@gmail.com,9647525534,2025-08-22,Samsung Galaxy M34,Electronics,1,16999,5,16149.05,,Delivered,Mumbai,Maharashtra,India,2025-08-19,1
+ORD5084,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9432921277,2025-12-26,Yonex Badminton Racket,Sports,2,1899,0,3798.0,Net Banking,Shipped,Hyderabad,Telangana,India,2025-12-30,
+ORD5112,C1012,Divya Menon,divya.menon@gmail.com,9153714732,13/02/2026,Cosco Football,Sports,3,799,20,1917.6,Credit Card,Pending,Hyderabad,Telangana,India,,
+ORD5163,C1007,Karan Verma,karan.verma@gmail.com,9825537147,2025-07-30,iPhone 13,Electronics,1,54999,20,43999.2,UPI,Delivered,Bengaluru,Karnataka,India,2025-08-05,5
+ORD5061,C1003,Rohan Mehta,rohan.mehta@gmail.com,9474074821,09-04-2025,Samsung Galaxy M34,Electronic,2,16999,5,32298.1,UPI ,Returned,Kolkata,West Bengal,India,2025-09-13,
+ORD5138,C1001,AARAV SHARMA,aarav.sharma@gmail.com,946-287-3342,2025-02-30,Allen Solly Shirt,Clothing,4,1799,15,6116.6,Cash on Delivery,Shipped,Kolkata,West Bengal,India,2026-06-29,
+ORD5056,C1014,Kavya Pillai,kavya.pillai@gmail.com,,2026-03-01,Samsung Galaxy M34,Electronics,3,16999,0,50997.0,UPI,Cancelled,Chennai,Tamil Nadu,India,,
+ORD5251,C1009,Rahul Nair,rahul.nair@gmail.com,9355543987,2026-03-02,Samsung Galaxy M34,Electronics,1,16999,10,15299.1,Net Banking,Shipped,Delhi,Delhi,India,2026-03-10,
+ORD5222,C1012,Divya Menon,divya.menon@gmail.com,9282417248,2026-07-02,Wings of Fire,Books,3,299,20,717.6,Debit Card,Cancelled,Bengaluru,Karnataka,India,,
+ORD5014,C1004,Sneha Iyer,sneha.iyer@gmail.com,9473178108,2026-07-04,Levi's Jeans,Clothing,2,2499,150,4248.3,Credit Card,Shipped,Bengaluru,Karnataka,India,2026-07-13,
+ORD5228,C1010,Pooja Joshi,pooja.joshi@gmail.com,99999999999999,2026-03-21,Philips Air Fryer,Home & Kitchen,3,-499,15,19122.45,Net Banking,Cancelled,Hyderabad,Telangana,India,,
+ORD5026,C1010,Pooja Joshi,pooja.joshi@gmail.com,9088356159,2026-01-30,Philips Air Fryer,Home & Kitchen,3,7499,0,22497.0,UPI,Returned,Pune,Maharashtra,India,2026-02-04,
+ORD5051,C1002,Priya Patel,priya.patel@gmail.com,9742967175,2025-10-03,Levi's Jeans,Clothing,2,2499,15,4248.3,Cash on Delivery,DELIVERED,Mumbai,Maharashtra,India,,
+ORD5077,C1013,SIDDHARTH RAO,siddharth.rao@gmail.com,9445502296,2026-03-16,Nike T-Shirt,Clothing,3,1299,0,3897.0,Credit Card,Shipped,Bengaluru,Karnataka,India,2026-03-18,
+ORD5164,C1010,Pooja Joshi,pooja.joshi@gmail.com,9249912513,2025-04-27,Prestige Mixer Grinder,Home & Kitchen,3,3299,15,8412.45,UPI,Pending,Kolkata,West Bengal,India,,
+ORD5124,C1004,Sneha Iyer,sneha.iyer@gmail.com,9120826773,2025-02-23,Python Crash Course,Books,4,699,10,2516.4,UPI,Returned,Bengaluru,Karnataka,India,2025-02-26,
+ORD5065,C1009,Rahul Nair,neha gupta@yahoo.com,9171236851,2025-06-18,Philips Air Fryer,Home & Kitchen,4,7499,10,26996.4,Cash on Delivery,Cancelled,Chennai,Tamil Nadu,India,,-3
+ORD5032,C1008,Neha Gupta,neha.gupta@gmail.com,9455812236,2025-10-09,Python Crash Course,Books,1,699,10,629.1,Debit Card,Shipped,Bengaluru,Karnataka,India,2025-10-18,
+ORD5252,C1014,Kavya Pillai,kavya.pillai@gmail.com,9930561648,2025-04-28,Yonex Badminton Racket,SPORTS,4,1899,5,7216.2,UPI,Pending,Mumbai,Maharashtra,India,,
+ORD5141,C1007,Karan Verma,karan.verma@gmail.com,9854458771,2026-07-20,Lakme Face Wash,Beauty,3,,15,634.95,Cash on Delivery,Returned,Bengaluru,Karnataka,India,2026-07-27,
+ORD5078,C1003,Rohan Mehta,rohan.mehta@gmail.com,9525459910,2025-04-04,Wings of Fire,Books,2,299,15,1016.6,Debit Card,Returned,Mumbai,Maharashtra,India,2025-04-09,
+ORD5011,C1013,Siddharth Rao,siddharth.rao@gmail.com,9713315098,2025-11-16,wings of fire,BOOKS,3,299,15,762.45,Debit Card,Pending,Bengaluru,Karnataka,India,,
+ORD5187,C1012,Divya Menon,divya.menon@gmail.com,9320603850,2026-04-21,Atomic Habits,,4,499,5,1896.2,UPI,Pending,Bengaluru,Karnataka,India,,
+ORD5162,C1009,rahul nair,rahul.nair@gmail.com,+91 92266 09379,2025-12-05,boAt Rockerz 450,ELECTRONICS,4,1499,5,5696.2,Cash on Delivery,Returned,Delhi,Delhi,india,2025-12-13,
+ORD5041,C1008,Neha Gupta,neha.gupta@gmail.com,9549480831,2031-05-14,Cosco Football,Sports,-1,Rs. 799,10,1438.2,Debit Card,Cancelled,Hyderabad,Telangana,India,,
+ORD5083,C1014,Kavya Pillai,kavya.pillai@gmail.com,9535218188,2026-03-23,Samsung Galaxy M34,electronics,1,16999,15,14449.15,Net-Banking,Cancelled,Bengaluru,Karnataka,India,,
+ORD5240,C1006,Ananya Reddy,ananya.reddy@gmail.com,9975711305,2025-08-17,Allen Solly Shirt,Clothing,3,1799,20,4317.6,UPI,Pending,Mumbai,Maharashtra,India,,
+ORD5080,C1005,Vikram Singh,vikram.singh@gmail.com,9900343244,2026-06-24,Python Crash Course,Books,1,699,5,61902.42,UPI,Returned,Ahmedabad,Gujarat,India,2026-06-30,
+ORD5175,C1008,Neha Gupta,neha.gupta@gmail.com,9162713611,2025-08-20,Samsung Galaxy M34,Electronics,1,16999,0,16999.0,Credit Card,Cancelled,Delhi,Karnatak,India,,
+ORD5100,C1009,Rahul Nair,rahul.nair@gmail.com,9054156676,2025-09-17,Prestige Mixer Grinder,Home & Kitchen,2,3299,10,5938.2,UPI,Cancelled,Bangalore,Gujarat,India,,
+ORD5122,C1006,Ananya Reddy,ananya.reddy@gmail.com,+91-9866524041,2026-07-28,Milton Water Bottle,Home & Kitchen,3,599,0,1797.0,UPI,Pending,Hyderabad,Telangana,India,,
+ORD5054,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9248086131,2026-05-12,Nike T-Shirt,Clothing,1,1299,20,1039.2,Cash on Delivery,Shipped,Ahmedabad,Gujarat,India,2026-05-15,
+ORD5171,C1012,Divya Menon,divya.menon@gmail.com,9667116845,2026-02-07,Allen Solly Shirt,Clothing,2,1799,20,2878.4,Cash on Delivery,Cancelled,Bengaluru,Karnataka,India,,
+ORD5134,C1011,,amit.desai@gmail.com,9300478686,2025-05-02,Cosco Football,Sports,4,799,20,48163.55,Debit Card,Shipped,Hyderabad,maharashtra,India,2025-05-06,
+ORD5025,C1006,ananya reddy,ananya.reddy@gmail.com,9294019655,2026-07-04,Python Crash Course,Books,1,699,0,699.0,Cash on Delivery,Cancelled,Kolkata,West Bengal,India,,
+ORD5232,C1009,Rahul Nair,rahul.nair@gmail.com,9119721811,2026-05-08,Milton Water Bottle,Home & Kitchen,2,599,0,1198.0,Debit Card,Delivered,Bengaluru,Karnataka,India,2026-05-15,3
+ORD5189,C1012,Divya Menon,divya.menon@gmail.com,9619906234,15-Apr-2026,Lakme Face Wash,Beauty,1,249,20,199.2,UPI,Shipped,Hyderabad,Telangana,India,2026-04-18,
+ORD5236,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,09508993588,26/02/2026,Milton Water Bottle,Home & Kitchen,1,599,0,599.0,Net Banking,Cancelled,Pune,Maharashtra,India,,
+ORD5102,C1008,Neha Gupta,neha.gupta@gmail.com,9596401658,2025-06-20,atomic habits,Books,3,499,15,1272.45,Credit Card,Delivered,Kolkata,West Bengal,India,2025-06-29,2
+ORD5018,C1010,Pooja Joshi,pooja.joshi@gmail.com,9624751079,2025-09-25,Philips Air Fryer,Home & Kitchen,3,7499,5,21372.15,Net Banking,Cancelled,hyderabad,Telangana,India,,
+ORD5127,C1012,Divya Menon,priya.patel@gmail,9685161227,08-05-2026,Allen Solly Shirt,Clothing,2,1799,20,2878.4,UPI,Returned,Chennai,Tamil Nadu,India,2026-08-10,
+ORD5227,C1011,Amit Desai,amit.desai.gmail.com,9689421044,2025-08-20,iPhone 13,Electronics,3,54999,5,156747.15,Net Banking,Delivered,Bengaluru,Karnataka,India,2025-08-27,4
+ORD5198,C1014,Kavya Pillai,kavya.pillai@gmail.com,9395590599,2025-08-13,Yonex Badminton Racket,Sports,3,1899,5,5412.15,Debit Card,Shipped,Mumbai,Maharashtra,India,2025-08-21,
+ORD5128,C1015,Manish Kulkarni,manish.kulkarni@gmail.com,9549904530,2025-09-25,Levi's Jeans,Clothing,2,2499,15,4248.3,Credit Card,Cancelled,Mumbai,Maharashtra,India,,
+ORD5063,C1001,Aarav Sharma,aarav.sharma@gmail.com,9439533942,2025-10-09,cosco football,sports,1,799,20,639.2,Credit Card,Returned,Kolkata,West Bengal,India,2025-10-11,
+ORD5007,C1006,Ananya Reddy,ananya.reddy@gmail.com,922-691-6697,2026-06-06,Levi's Jeans,Clothing,1,2499,0,2499.0,UPI,Delivered,Delhi,Delhi,India,2026-06-15,5
+ORD5196,C1005,Vikram Singh,vikram.singh@gmail.com,9657875985,2026-03-06,Prestige Mixer Grinder,Home & Kitchen,2,Rs. 3299,20,5278.4,UPI,Canceled,Delhi,Delhi,INDIA,2026-03-11,4
+ORD5129,C1008,neha gupta,neha.gupta@gmail.com,9933272795,2026-02-20,Nike T-Shirt,Clothing,1,1299,10,1169.1,Cash on Delivery,Cancelled,,TS,India,,0
+ORD5099,C1001,Aarav Sharma,aarav.sharma@gmail.com,9170430305,2025-06-29,Allen Solly Shirt,Clothing,4,1799,5,6836.2,UPI,Shipped,Hyderabad,Telangana,India,2025-07-08,
+ORD5093,C1009,Rahul Nair,rahul.nair@gmail.com,9758181412,2025-06-15,Philips Air Fryer,Home & Kitchen,2,7499,10,13498.2,Cash on Delivery,Delivered,Kolkata,West Bengal,India,2025-06-20,3
+ORD5241,C1014,Kavya Pillai,kavya.pillai@gmail.com,9726149331,2026-07-15,Python Crash Course,Books,,699,0,699.0,Cash on Delivery,Shipped,Chennai,Tamil Nadu,India,2026-07-22,
+ORD5037,C1014,Kavya Pillai,kavya.pillai@gmail.com,9374529912,2025-09-02,iPhone 13,Electronics,-1,54999,0,219996.0,UPI,Pending,Delhi,Delhi,India,,
+ORD5201,C1006,Ananya Reddy,ananya.reddy@gmail.com,9289539264,2025-05-20,Nike T-Shirt,Clothing,4,1299,15,4416.6,UPI,Cancelled,Hyderabad,Telangana,India,,
+ORD5137,C1010,Pooja Joshi,pooja.joshi@gmail.com,9644089268,2025-08-31,Yonex Badminton Racket,Sports,2,9999999,20,3038.4,Cash on Delivery,Shipped,Hyderabad,Telangana,India,2025-09-06,
+ORD5029,C1005,Vikram Singh,vikram.singh@gmail.com,9200379176,2025-04-06,Philips Air Fryer,Home & Kitchen,3,7499,5,21372.15,Net Banking,Shipped,Hyderabad,Telangana,India,2025-04-11,
+ORD5075,C1006,  Ananya Reddy  ,ananya.reddy@gmail.com,9152809885,2025-03-10,boAt Rockerz 450,Electronics,1,Rs. 1499,0,1499.0,Credit Card,Returned,Ahmedabad,Gujarat,India,2025-03-13,
+ORD5042,C1012,Divya Menon,divya.menon@gmail.com,,2026-07-23,Prestige Mixer Grinder,home & kitchen,4,3299,15,11216.6,Cash on Delivery,Returned,Ahmedabad,Gujarat,India,2026-07-28,
+ORD5170,C1010,Pooja Joshi,,9812604223,,Philips Air Fryer,Home & Kitchen,3,7499,20,17997.6,Debit Card,Cancelled,Delhi,Delhi,India,,
+ORD5017,C1001,Aarav Sharma,aarav.sharma@gmail.com,9193990916,2025-07-10,Philips Air Fryer,Home & Kitchen,1,7499,5,7124.05,Net Banking,Returned,Pune,Maharashtra,India,2025-07-13,
+ORD5238,C1006,Ananya Reddy,ananya.reddy@gmail.com,9631779717,2025-10-12,Levi's Jeans,Clothing,2,Rs. 2499,20,3998.4,Cash on Delivery,Returned,Hyderabad,Telangana,India,2025-10-14,
+ORD5191,C1006,Ananya Reddy,ananya.reddy@gmail.com,9741124903,2026-07-03,Prestige Mixer Grinder,Home & Kitchen,2,3299,15,5608.3,UPI,Cancelled,Pune,Maharashtra,India,,
+ORD5256,C1002,  Priya Patel  ,priya.patel@gmail.com,9914766072,03-16-2025,Yonex Badminton Racket,sports,1,1899,10,1709.1,Net Banking,Cancelled,Mumbai,Maharashtra,India,,
+ORD5160,C1004,Sneha Iyer,sneha.iyer@gmail.com,9714611254,2026-02-05,Milton Water Bottle,Home & Kitchen,2,599,10,1078.2,Cash on Delivery,Delivered,Hyderabad,Telangana,India,2026-02-14,3
